@@ -1,0 +1,165 @@
+
+body{
+	background: url(img/marseille.jpg);
+	background-size: cover;
+}
+
+
+/*--------------------------------------header-------------------------------------*/
+
+div#forget div{
+
+display: inline-block;
+
+width: 50%
+
+}
+
+div#forget div.leftbox{
+
+}
+
+div#forget div.rightbox{
+
+}
+
+
+h2{color:#FFFFFF} 
+
+
+nav.menu-nav ul li{
+
+}
+  
+
+nav.menu-nav ul li{
+  list-style-type: none;
+  display: inline-block
+
+}
+
+nav.menu-nav ul li a{
+  color:#1B3B6F;
+  background-color:white;
+  text-decoration: none;
+  padding: 10px
+
+}
+nav.menu-nav ul li:hover a{
+  columns: red;
+  background-color: black ;
+  transition: 0.4s all ;
+}
+
+#az{
+	display: flex;
+}
+
+#logo {
+  background: rgba(0, 0, 0, 0.6)
+}
+
+.logo {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  align-content: center;
+}
+
+.logo1{
+  max-width: 8vh;
+  margin-left: 2vh;
+  
+}
+
+#logo h2 {
+  color: white;
+  background: rgba(147, 143, 143, 0.5);
+  text-align: center;
+  margin: auto;
+  margin-top: 5vh;
+  margin-bottom: 3vh; 
+  max-width: 30%;
+}
+
+
+#az{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+#az h1{
+  font-size: 2.5em;
+  color: black;
+  font-family: sans-serif;
+}
+
+/*----------------------------------------------------------------------------------*/
+
+img{
+	display: block;
+    margin-left: auto;
+    margin-right: auto;
+    max-width: 30vh;
+}
+
+.reseaux{
+	display: flex;
+	justify-content: center;
+}
+
+.logo-reseaux{
+	width: 8vh;
+	margin-right: 0;
+	margin-left: 0;
+}
+/*-------------------accueil----------------------*/
+.song{
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(255,255,255,0.8);
+}
+
+.blocksg {
+	display: flex;
+	justify-content: space-around;
+}
+/*------------------------------------------------*/
+audio{
+	display: block;
+	margin-left: auto;
+	margin-right: auto;
+}
+
+h2{
+	color: black;
+	text-align: center;
+}
+
+
+/*-------------------old----------------------*/
+
+.old{
+	background: url(img/friche.jpg);
+	background-size: cover;
+}
+
+.song2{
+	justify-content: center;
+	align-items: center;
+	background-color: rgba(0,0,0,0.3);
+}
+
+.song2 h2{
+	color: white;
+}
+
+
+
+
+
+
+
+
+/*------------------------------------------------*/
